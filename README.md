@@ -1,2 +1,2 @@
-# Cone-Swap
-Cone Swap is a Dex building on Polkadot Asset Conversion Pallet
+# Asset-Swap
+Asset Swap is a Dex building on Polkadot Asset Conversion Pallet
