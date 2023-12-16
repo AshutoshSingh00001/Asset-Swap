@@ -2,9 +2,9 @@
 <img src="https://github.com/AshutoshSingh00001/Asset-Swap/assets/138657449/114e9834-493e-4efe-8877-8bbed432452f" alt="Asset Swap" width="1200" height="400px">
 
 ## Asset Swap is a Dex building on Polkadot Asset Conversion Pallet
-Polkadot Asset Hub is widely addopted by many different projects like USDT, USDC these tokens are tradable on different Cex's like Binance but since we have asset conversion pallet live on kusama
+Polkadot Asset Hub is widely adopted by many different projects like USDT, USDC. These tokens are tradable on different CEXs like Binance. But since we have the asset conversion pallet live on Kusama
 
-Anyone can now create pools and convert tokens using asset conversion pallet to make it more accessible we came up with an idea to build a Dex UI for the asset conversion pallet
+Anyone can now create pools and convert tokens using the asset conversion pallet. To make it more accessible, we came up with an idea to build a DEX UI for the asset conversion pallet
 
 ## How it Works
-Asset Swap uses Polkadot JS Api to fetch chain storage data and let's users intract with multiple functionlities like ```createPool``` ```assetConversion``` And uses ```Extrinsics``` based calls to create and intract with different pairs of Assets
+Asset Swap uses Polkadot JS API to fetch chain storage data and lets users interact with multiple functionalities like ```createPool``` and ```assetConversion``` It uses ```extrinsics``` based calls to create and interact with different pairs of assets
